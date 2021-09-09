@@ -1,0 +1,4 @@
+{
+    "build": "npm run tw-prod & npm run next-build"
+
+}
