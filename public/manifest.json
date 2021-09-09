@@ -1,0 +1,14 @@
+{
+    "name": "Josselin Francois-Downey's Website",
+    "short_name": "Josselin Francois-Downey",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "favicon.ico",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+        }
+      ],
+    "display": "standalone",
+    "theme_color": "#1F2937"
+}
