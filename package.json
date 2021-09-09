@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "tw": "tailwindcss build -i styles/tailwind.css -o styles/index.css",
-    "tw-prod": "SET NODE_ENV=production&tailwindcss build -i styles/tailwind.css -o styles/index.css",
+    "tw-prod": "set NODE_ENV=production&tailwindcss build -i styles/tailwind.css -o styles/index.css",
     "dev": "next dev",
     "build": "npm run tw-prod & npm run next-build",
     "next-build": "next build",
