@@ -15,7 +15,7 @@ export default function App({ Component, pageProps }: AppProps) {
         <div className="flex-no-shrink mb-8">
 
         <img style={{minWidth: "4rem"}} className='h-16 w-16 lg:h-24 lg:w-24 rounded-full mx-auto lg:mx-0 lg:mr-6'
-          src='/static/images/banana.jpg'
+          src='/static/images/profile-photo.jpg'
           />
         <div className='text-center lg:text-left lg:flex-auto lg:flex-shrink-0'>
           <h2 className='text-lg lg:text-xl'>Josselin Francois-Downey</h2>
@@ -48,7 +48,7 @@ export default function App({ Component, pageProps }: AppProps) {
             <meta property="og:title" content="Josselin Francois-Downey" />
             <meta property="og:type" content="website" />
             {/* <meta property="og:url" content="" /> */}
-            <meta property="og:image" content="/static/images/banana.jpg" />
+            <meta property="og:image" content="/static/images/profile-photo.jpg" />
             <meta property="og:description" content="Josselin Francois-Downey's Portfolio, displaying his experience and passion for development" />
 
             <title>Josselin Francois-Downey</title>
