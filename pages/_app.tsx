@@ -30,10 +30,11 @@ export default function App({ Component, pageProps }: AppProps) {
           </div>
           <p className="text-justify py-10">
             I'm a young Developer based in Melbourne with more than 2 years of industry experience as a FullStack Developer.
-            I have experience with a wide range of programming languages and technologies, including: Angular, SCSS, Express.js, React, Python, C#, Git, SQL.
-            I have a passion for developing and learning new things while doing so. I also recently started taking
-            interest at hardware concepts such as PC building and phone and computer repair.
-            I love experimenting and sharing my work with others.
+            I have worked with a wide range of programming languages and technologies, including: Angular, SCSS, Express.js, React, Python, C#, Git, SQL.
+			I have a passion for developing and I love learning new things while building both small and bigger projects. 
+			
+			I also recently started taking an interest in hardware concepts such as PC building as well as phone and computer repair.
+            I love experimenting and sharing my work and ideas with other people.
           </p>
           </div>
            </div>
