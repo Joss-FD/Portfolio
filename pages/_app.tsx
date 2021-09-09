@@ -2,6 +2,7 @@ import 'tailwindcss/tailwind.css'
 import { AppProps } from 'next/app'
 import Head from 'next/head'
 import Navbar from 'components/navbar';
+import 'styles/app.css'
 
 export default function App({ Component, pageProps }: AppProps) {
   
