@@ -77,7 +77,7 @@
     "experience": [
         {
             "role": "Fullstack Software Developer",
-            "link": "https://www.linkedin.com/company/the-leaf-bookshop/jobs/",
+            "link": "https://www.linkedin.com/school/rmit-university/",
             "company": "DCA - Database Consultants Australia",
             "dates": "Feb 2019 – Present",
             "description": "Delivering a modern solution for city councils to manage their data, working accross the entire product, including SQL databases, C# backend, Angular frontend and Android development."
@@ -93,7 +93,7 @@
     "education": [
         {
             "school": "RMIT University",
-            "link": "https://www.linkedin.com/school/rmit-university/",
+            "link": "https://www.linkedin.com/company/the-leaf-bookshop/jobs/",
             "degree": "Bachelor's degree, Information Technology",
             "dates": "2015 - 2018",
             "document": ""
