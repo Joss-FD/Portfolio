@@ -56,8 +56,8 @@
                 "link": "/static/files/resume.pdf",
                 "description": "A resume made using only HTML and CSS, to have more control over the formatting and styling.",
                 "technologies": [
-                    "Typescript",
-                    "Node.js"
+                    "HTML",
+                    "CSS"
                 ]
             },
             {
