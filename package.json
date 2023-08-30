@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@types/classnames": "^2.3.1",
-    "@types/node": "^14.18.23",
+    "@types/node": "^18.17.1",
     "@types/pdfjs-dist": "^2.10.378",
     "@types/react": "^17.0.48",
     "@types/react-dom": "^17.0.17",
