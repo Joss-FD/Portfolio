@@ -3,7 +3,7 @@
         "big": [
             {
                 "title": "PinForce - Council Internal Website",
-                "dates": "2019 - Present",
+                "dates": "2019 - 2021",
                 "type": "Database Consultants Australia",
                 "description": "Upraging technology stack of a web based solution for city councils to manage data, improving usability, performance and introducing more funcitonality. Moving from ASP.NET and Delphi to Angular and C#.",
                 "technologies": [
@@ -76,10 +76,17 @@
     ],
     "experience": [
         {
+            "role": "Senior Analyst - Fullstack Developer",
+            "link": "https://www.linkedin.com/company/deloitte/",
+            "company": "Deloitte - Digital Tax",
+            "dates": "Nov 2019 – Present",
+            "description": "Working on a wide range of projects with many different technologies and types of work. Some examples include: DevOps, code review, VBA scripts for Excel, python automation scripts, C#/Angular coding and Database management. This role also allowed me to improve my communication and organisation skills, being a fast pace environment with multiple project happening at once and some client facing work is involved."
+        },
+        {
             "role": "Fullstack Software Developer",
             "link": "https://www.linkedin.com/company/database-consultants-australia/mycompany/",
             "company": "DCA - Database Consultants Australia",
-            "dates": "Feb 2019 – Present",
+            "dates": "Feb 2019 – Nov 2021",
             "description": "Delivering a modern solution for city councils to manage their data, working accross the entire product, including SQL databases, C# backend, Angular frontend and Android development."
         },
         {

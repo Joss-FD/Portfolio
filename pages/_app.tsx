@@ -27,9 +27,13 @@ export default function App({ Component, pageProps }: AppProps) {
             <a className="lg:mr-5" href="https://github.com/Jojofoulk">
               GitHub
             </a>
+            <a className="lg:mr-5" href="https://stackoverflow.com/users/11397775/jojofoulk">
+              Stack Overflow
+            </a>
           </div>
           <p className="text-justify py-10">
-            I'm a young Developer based in Melbourne with more than 2 years of industry experience as a FullStack Developer.
+            
+            I'm a young Developer based in Melbourne with more than {Math.round((Date.now()/1000-1549836000)/(31536000))} years of industry experience as a FullStack Developer.
             I have worked with a wide range of programming languages and technologies, including: Angular, SCSS, Express.js, React, Python, C#, Git, SQL.
 			I have a passion for developing and I love learning new things while building both small and bigger projects. 
 			
