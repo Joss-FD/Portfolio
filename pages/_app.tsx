@@ -13,13 +13,9 @@ export default function App({ Component, pageProps }: AppProps) {
       <div className='mt-20 y
       rounded-lg p-12 w-full'>
         <div className="flex-no-shrink mb-8">
-
-        <img style={{minWidth: "4rem"}} className='h-16 w-16 lg:h-24 lg:w-24 rounded-full mx-auto lg:mx-0 lg:mr-6'
-          src='/static/images/profile-photo.jpg'
-          />
         <div className='text-center lg:text-left lg:flex-auto lg:flex-shrink-0'>
           <h2 className='text-lg lg:text-xl'>Josselin Francois-Downey</h2>
-          <div className='text-green-400'>Curious and enthusiastic developer</div>
+          <div className='text-green-400'>Keep wandering, wandering is how you find what is right</div>
           <div className='text-gray-400 flex flex-col lg:flex-row'>
             <a className="lg:mr-5" href="https://www.linkedin.com/in/josselin-francois-downey/">
               LinkedIn
@@ -32,13 +28,9 @@ export default function App({ Component, pageProps }: AppProps) {
             </a>
           </div>
           <p className="text-justify py-10">
-            
-            I'm a young Developer based in Melbourne with more than {Math.round((Date.now()/1000-1549836000)/(31536000))} years of industry experience as a FullStack Developer.
-            I have worked with a wide range of programming languages and technologies, including: Angular, SCSS, Express.js, React, Python, C#, Git, SQL.
-			I have a passion for developing and I love learning new things while building both small and bigger projects. 
-			
-			I also recently started taking an interest in hardware concepts such as PC building as well as phone and computer repair.
-            I love experimenting and sharing my work and ideas with other people.
+            Don't be afraid of pure CSS.
+
+            Worked for about {Math.round((Date.now()/1000-1549836000)/(31536000))} years.
           </p>
           </div>
            </div>

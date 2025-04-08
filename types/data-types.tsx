@@ -12,7 +12,7 @@ export interface ProjectType {
     title: string;
     dates: string;
     type: string;
-    link: string;
+    link?: string;
     description: string;
     technologies: string[];
 }
@@ -25,7 +25,7 @@ interface EventType {
 
 export interface ExperienceType {
     role: string;
-    link: string;
+    link?: string;
     company: string;
     dates: string;
     description: string;
@@ -33,7 +33,7 @@ export interface ExperienceType {
 
 export interface EducationType {
     school: string; 
-    link: string;
+    link?: string;
     degree: string;
     dates: string;
     document: string;

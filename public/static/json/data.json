@@ -77,24 +77,21 @@
     "experience": [
         {
             "role": "Senior Analyst - Fullstack Developer",
-            "link": "https://www.linkedin.com/company/deloitte/",
             "company": "Deloitte - Digital Tax",
             "dates": "Nov 2019 – Present",
-            "description": "Working on a wide range of projects with many different technologies and types of work. Some examples include: DevOps, code review, VBA scripts for Excel, python automation scripts, C#/Angular coding and Database management. This role also allowed me to improve my communication and organisation skills, being a fast pace environment with multiple project happening at once and some client facing work is involved."
+            "description": "Learn Cloud platforms (AWS, Azure), more C#, more Angular/React, some excel VBA script"
         },
         {
             "role": "Fullstack Software Developer",
-            "link": "https://www.linkedin.com/company/database-consultants-australia/mycompany/",
             "company": "DCA - Database Consultants Australia",
             "dates": "Feb 2019 – Nov 2021",
-            "description": "Delivering a modern solution for city councils to manage their data, working accross the entire product, including SQL databases, C# backend, Angular frontend and Android development."
+            "description": "C# backend and learn Angular on the job to build frontend from scratch"
         },
         {
             "role": "Sales Assistant",
-            "link": "https://www.linkedin.com/company/the-leaf-bookshop/jobs/",
-            "company": "The Leaf Bookshop",
+            "company": "Local Bookshop",
             "dates": "Oct 2016 – Oct 2019",
-            "description": "Help organize and maintain the shop by managing deliveries/returns and demonstrate good communication skills to provide a great customer experience"
+            "description": "Sell books and talk to people"
         }
     ],
     "education": [

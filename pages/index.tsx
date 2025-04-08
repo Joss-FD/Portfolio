@@ -7,7 +7,7 @@ import Education from 'components/education';
 
 class Content extends Component {
   componentDidMount() {  
-    document.documentElement.style.scrollBehavior ="smooth" //Here gray-by is the bg color which I have set
+    document.documentElement.style.scrollBehavior ="smooth"
   }
 
 
@@ -21,6 +21,7 @@ class Content extends Component {
         <Experience />
         <Header title="Education" />
         <Education />
+        {<div>:)</div>}
       </Home>
     
   )
